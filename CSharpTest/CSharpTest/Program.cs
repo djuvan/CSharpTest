@@ -20,5 +20,11 @@ namespace CSharpTest
 			int x = 1;
 			x = 2;
 		}
+
+		static void newFunct()
+		{
+			int z = 11;
+			z = 22;
+		}
 	}
 }
