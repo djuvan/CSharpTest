@@ -17,8 +17,6 @@ namespace CSharpTest
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
-			int x = 1;
-			x = 2;
 		}
 
 		static void newFunct()
